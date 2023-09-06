@@ -1,1 +1,0 @@
-# ntrejoandalon.github.io
