@@ -1,0 +1,31 @@
+/* Center the entire content */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  /* Create a container for the blog post */
+  .blog-post {
+    max-width: 800px; /* Adjust the maximum width as needed */
+    padding: 20px;
+    text-align: left;
+  }
+  
+  /* Style paragraphs in the blog post */
+  .blog-post p {
+    margin-bottom: 20px;
+    font-size: 18px; /* Adjust the font size as needed */
+    line-height: 1.5;
+  }
+  
+  /* Style images in the blog post */
+  .blog-post img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto 20px;
+  }
+  
