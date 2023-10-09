@@ -12,6 +12,7 @@ body {
     max-width: 800px; /* Adjust the maximum width as needed */
     padding: 20px;
     text-align: left;
+    justify-content: center;
   }
   
   /* Style paragraphs in the blog post */
@@ -19,6 +20,8 @@ body {
     margin-bottom: 20px;
     font-size: 18px; /* Adjust the font size as needed */
     line-height: 1.5;
+    justify-content: center;
+
   }
   
   /* Style images in the blog post */
@@ -27,5 +30,8 @@ body {
     height: auto;
     display: block;
     margin: 0 auto 20px;
+    justify-content: center;
+
+  
   }
   
