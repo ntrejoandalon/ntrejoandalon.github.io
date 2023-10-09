@@ -15,23 +15,4 @@ body {
     justify-content: center;
   }
   
-  /* Style paragraphs in the blog post */
-  .blog-post p {
-    margin-bottom: 20px;
-    font-size: 18px; /* Adjust the font size as needed */
-    line-height: 1.5;
-    justify-content: center;
-
-  }
-  
-  /* Style images in the blog post */
-  .blog-post img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 0 auto 20px;
-    justify-content: center;
-
-  
-  }
   
